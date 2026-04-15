@@ -77,6 +77,13 @@ jupyter notebook main.ipynb
 
 ---
 
-## 👤 Author
+## 👥 Contributors
+
+This project was developed as a collaborative effort.
+
+* **Shreyansh Kumar Das**
+* **Sanjana Sarkar**
+* **Subhodeep Bhattacharjee**
+* **Atrijo Roy**
 
 **Shreyansh Kumar Das**
